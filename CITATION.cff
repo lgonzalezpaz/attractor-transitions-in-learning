@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or its derived data, please cite the manuscript below."
+title: "A feasibility boundary for attractor state transitions"
+abstract: >-
+  Closed-form theory, numerical verification and empirical analysis for a
+  feasibility boundary on perturbation-driven transitions between attractor
+  states, with an application to resting-state dynamics in autism.
+authors:
+  - family-names: "[SURNAME]"
+    given-names: "[GIVEN NAMES]"
+    affiliation: "[AFFILIATION]"
+version: 1.0.0
+date-released: 2026-10-30
+license: MIT
+repository-code: "https://github.com/[USER]/attractor-feasibility-learning"
+doi: "[ZENODO DOI]"
+keywords:
+  - attractor dynamics
+  - Kuramoto model
+  - Kramers escape
+  - metastability
+  - autism spectrum
+  - instructional design
+  - surrogate data

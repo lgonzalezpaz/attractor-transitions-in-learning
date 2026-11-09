@@ -1,0 +1,12 @@
+{
+  "title": "A feasibility boundary for attractor state transitions: code and derived data",
+  "upload_type": "software",
+  "license": "MIT",
+  "version": "1.0.0",
+  "creators": [
+    {"name": "[SURNAME], [GIVEN NAMES]", "affiliation": "[AFFILIATION]"}
+  ],
+  "description": "Closed-form theory, numerical verification and empirical analysis for a feasibility boundary on perturbation-driven transitions between attractor states, with an application to resting-state dynamics in autism. Includes the full simulation and analysis pipeline, the simulation library, all derived participant-level quantities, the statistical output and all figures. Raw imaging data are not redistributed; they are fetched at run time from the public ABIDE Preprocessed S3 bucket.",
+  "keywords": ["attractor dynamics", "Kuramoto model", "Kramers escape", "metastability", "autism spectrum", "instructional design", "surrogate data", "ABIDE"],
+  "access_right": "open"
+}
